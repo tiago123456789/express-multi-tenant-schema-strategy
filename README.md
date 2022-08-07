@@ -1,4 +1,4 @@
-Instructions for running application:
+Instructions for run application:
 ======================================
 
 - Clone repository
